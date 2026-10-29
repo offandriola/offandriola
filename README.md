@@ -110,18 +110,6 @@ Atualmente, estou expandindo meus conhecimentos em:
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=offandriola&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=offandriola&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
-
-</div>
-
----
-
 <div align="center">
 
 **Transformando dados em informação, automação e soluções.**
