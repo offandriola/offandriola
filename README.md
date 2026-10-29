@@ -11,7 +11,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻
 
 Olá! Sou profissional de tecnologia com foco em **Análise, Visualização e Engenharia de Dados**.
 
@@ -19,6 +19,7 @@ Gosto de trabalhar com diferentes etapas do ciclo de dados, desde **APIs, ETL/EL
 
 Atualmente, estou aprofundando meus conhecimentos em **Data Engineering, Machine Learning, desenvolvimento Full Stack e Cybersecurity**.
 
+Formado em 06/26 - Ciência da Computação - Universidade Cidade de São Paulo
 ---
 
 ### 🛠️ Tecnologias
